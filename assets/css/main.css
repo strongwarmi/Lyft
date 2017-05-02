@@ -46,3 +46,22 @@ body{
   left: 0;
   position: absolute;
 }
+#MetasLyft{
+  background: linear-gradient(#76278f,#2b1e66);
+  height: 500px;
+}
+.DivImgPhone{
+  position: absolute;
+  right: 30px;
+}
+.ImgPhone{
+  height: 500px;
+}
+.Metas{
+  color: #FFF;
+  position: absolute;
+}
+.Metas h1{
+  font-size: 25px;
+  text-transform: uppercase;
+}
