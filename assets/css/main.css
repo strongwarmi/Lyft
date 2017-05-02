@@ -67,3 +67,23 @@ body{
   font-size: 25px;
   text-transform: uppercase;
 }
+#PiePagina{
+  height: 500px;
+  background-color: #333447;
+}
+.MenuPiePagina{
+  display: inline-block;
+  margin: 20px 0 2px 12%;
+}
+.MenuPiePagina a{
+  color: white;
+  text-decoration: none;
+}
+.MenuPiePagina a:hover{
+  color: #FF00BF;
+  text-decoration: underline;
+}
+.MenuPiePagina a h3:hover{
+  color: #FFF;
+  text-decoration: underline;
+}
