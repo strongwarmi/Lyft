@@ -70,6 +70,7 @@ body{
 #PiePagina{
   height: 500px;
   background-color: #333447;
+  color: #FFF;
 }
 .MenuPiePagina{
   display: inline-block;
@@ -86,4 +87,27 @@ body{
 .MenuPiePagina a h3:hover{
   color: #FFF;
   text-decoration: underline;
+}
+.RedSocial{
+  text-align: center;
+}
+.Copy{
+  border-top: 1px solid;
+  border-bottom-color: white;
+  width: 50%;
+  margin-left: 25%;
+  text-align: center;
+}
+.IconoRed{
+  width: 38px;
+  height: 28px;
+  border: 1px solid #FFF;
+  border-radius: 100%;
+  display: inline-block;
+  margin: 50px;
+  text-align: center;
+  padding-top: 10px;
+}
+.IconoRed a i{
+  color: #FFF;
 }
