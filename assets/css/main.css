@@ -27,7 +27,7 @@ body{
 }
 .TitleVideo{
   text-transform: uppercase;
-  font-size: 22px;
+  font-size: 25px;
   font-weight: bold;
 }
 .Video{
@@ -48,18 +48,20 @@ body{
 }
 #MetasLyft{
   background: linear-gradient(#76278f,#2b1e66);
-  height: 500px;
+  height: 550px;
 }
 .DivImgPhone{
   position: absolute;
-  right: 30px;
+  right: 0;
+  padding: 60px 10% 0 50%;
 }
 .ImgPhone{
-  height: 500px;
+  height: 480px;
 }
 .Metas{
   color: #FFF;
   position: absolute;
+  padding: 60px 2% 0 10%;
 }
 .Metas h1{
   font-size: 25px;
