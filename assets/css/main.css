@@ -114,3 +114,31 @@ body{
 .VideoFondo{
   width: 100%;
 }
+/* clases formulario*/
+.Formulario{
+  width: 45%;
+  background-color: #FFF;
+  position: absolute;
+  right: 0;
+  top: 100px;
+}
+.Formulario h3{
+  text-transform: uppercase;
+  color: #352384;
+  padding-left: 40px;
+}
+.TituloForm{
+  text-transform: uppercase;
+  color: #352384;
+  padding: 40px 0 5px 40px;
+  background-color: #FFF;
+}
+.form-signup{
+  padding: 0px 40px 45px 40px;
+}
+#Celular{
+  padding: 10px 0;
+  border-bottom: 1px solid #352384;
+  border: 0;
+  width: 100%;
+}

@@ -18,6 +18,7 @@ var lastScrollTop = 0;
          Explore.style.color = "#FFF";
          Help.style.color = "#FFF";
          Login.style.color = "#FFF";
+         Login.style.border = "1px solid #FFF";         
          SignUp.style.opacity= 0;
        }
      }
